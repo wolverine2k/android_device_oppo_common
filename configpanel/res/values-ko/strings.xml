@@ -16,19 +16,14 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">고급 설정</string>
-  <string name="backpad_panel_title">O-Touch 설정</string>
-  <string name="backpad_panel_summary">O-Touch 구성</string>
+  <!-- O-Touch settings -->
   <string name="touchpad_enable_title">O-Touch 사용</string>
   <string name="touchpad_enable_summary">뒷면 터치패드로 휴대전화 탐색</string>
   <string name="touchpad_long_press_title">길게 눌러 카메라 실행</string>
   <string name="touchpad_long_press_summary">터치패드를 길게 눌러 카메라 어플리케이션을 실행합니다</string>
   <string name="touchpad_double_tap_title">두 번 탭하여 사진 촬영</string>
   <string name="touchpad_double_tap_summary">카메라 앱에서 두 번 탭하여 사진을 촬영합니다</string>
-  <string name="screen_gestures_panel_title">바로가기 제스처</string>
-  <string name="screen_gestures_panel_summary">화면이 꺼져 있는 동안 제스처 사용</string>
-  <string name="touchscreen_double_tap_gesture_title">장치 깨우기</string>
-  <string name="touchscreen_double_tap_gesture_summary">두 번 탭하여 장치를 깨웁니다</string>
+  <!-- Gesture shortcuts -->
   <string name="touchscreen_camera_gesture_title">카메라</string>
   <string name="touchscreen_camera_gesture_summary">원을 그려 카메라 열기</string>
   <string name="touchscreen_music_gesture_title">음악</string>
@@ -38,8 +33,7 @@
     • 두 손가락을 세로로 움직여 재생/일시정지\n
     • 왼쪽 화살표를 그려 이전 트랙으로\n
     • 오른쪽 화살표를 그려 다음 트랙으로</string>
-  <string name="oclick_panel_title">O-Click 설정</string>
-  <string name="oclick_panel_summary">O-Click 장치 구성</string>
+  <!-- O-Click settings -->
   <string name="oclick_connect_string">연결</string>
   <string name="oclick_disconnect_string">연결 해제</string>
   <string name="oclick_summary_connected">O-Click에 연결됨</string>
@@ -55,6 +49,7 @@
   <string name="oclick_disconnect_alert_summary">범위를 벗어났을 때 알림</string>
   <string name="alert_category_title">경고</string>
   <string name="action_category_title">동작</string>
+  <!-- O-Click notification -->
   <string name="oclick_locator_notification_title">O-Click 전화 로케이터</string>
   <string name="oclick_locator_notification_text">위치 경보가 작동 중입니다. 탭하여 해제</string>
   <string name="oclick_notification_title_connected">O-Click 연결 됨</string>

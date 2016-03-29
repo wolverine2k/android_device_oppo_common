@@ -16,19 +16,14 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Paramètres avancés</string>
-  <string name="backpad_panel_title">Paramètres O-Touch</string>
-  <string name="backpad_panel_summary">Configuration O-Touch</string>
+  <!-- O-Touch settings -->
   <string name="touchpad_enable_title">Activer O-Touch</string>
   <string name="touchpad_enable_summary">Pavé tactile arrière pour naviguer dans le téléphone</string>
   <string name="touchpad_long_press_title">Appui long pour lancer l\'appareil photo</string>
   <string name="touchpad_long_press_summary">Appuyez longuement sur le touchpad lancera l\'application appareil photo</string>
   <string name="touchpad_double_tap_title">Appui double pour capturer</string>
   <string name="touchpad_double_tap_summary">Dans l\'appareil photo, un appui double capture l\'image</string>
-  <string name="screen_gestures_panel_title">Raccourcis gestuels</string>
-  <string name="screen_gestures_panel_summary">Utiliser des gestes quand l\'écran est éteint</string>
-  <string name="touchscreen_double_tap_gesture_title">Réveiller l\'appareil</string>
-  <string name="touchscreen_double_tap_gesture_summary">Appui double pour réveiller l\'appareil</string>
+  <!-- Gesture shortcuts -->
   <string name="touchscreen_camera_gesture_title">Appareil photo</string>
   <string name="touchscreen_camera_gesture_summary">Dessinez un cercle pour activer l\'appareil photo</string>
   <string name="touchscreen_music_gesture_title">Musique</string>
@@ -38,8 +33,7 @@
 • deux doigts verticalement pour jouer/pause\n 
 • dessiner une flèche vers la gauche pour la piste précédente\n 
 • dessiner une flèche vers la droite pour la piste suivante</string>
-  <string name="oclick_panel_title">Paramètres O-Click</string>
-  <string name="oclick_panel_summary">Configuration des appareils O-Click</string>
+  <!-- O-Click settings -->
   <string name="oclick_connect_string">Connecter</string>
   <string name="oclick_disconnect_string">Déconnecter</string>
   <string name="oclick_summary_connected">Connecté à O-clic</string>
@@ -51,10 +45,11 @@
   <string name="oclick_find_my_phone_summary">Appui double pour trouver le téléphone</string>
   <string name="oclick_fence_title">Alerte de proximité</string>
   <string name="oclick_fence_summary">Alerter quand éloigné du téléphone</string>
-  <string name="oclick_disconnect_alert_title">Hors de la plage d\'alert</string>
+  <string name="oclick_disconnect_alert_title">Alerte hors de portée</string>
   <string name="oclick_disconnect_alert_summary">Alerte quand hors de portée</string>
   <string name="alert_category_title">Alertes</string>
   <string name="action_category_title">Actions</string>
+  <!-- O-Click notification -->
   <string name="oclick_locator_notification_title">O-Click Localisateur de téléphone</string>
   <string name="oclick_locator_notification_text">Alerte localisation en cours. Appuyez pour annuler</string>
   <string name="oclick_notification_title_connected">O-Click connecté</string>
